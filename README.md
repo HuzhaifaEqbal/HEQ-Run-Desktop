@@ -143,7 +143,7 @@ HEQ Run Desktop هو تطبيق لويندوز، وجواته **هجين**: مس
 - التسجيلات الصوتية بتنقاس على جهازك وما بتنبعت.
 
 ## المتطلبات
-- ويندوز 10 أو 11 (64 بت).
+- ويندوز 10 أو 11 (64 بت)، وحوالي 1 غيغا مساحة فاضية.
 - إنترنت للمحادثة مع هجين. الرندر ما بيحتاج إنترنت.
 - حساب على [HEQ Run](https://heq-run-6hf7.onrender.com).
 
@@ -220,7 +220,7 @@ Skills are plain text files in `Documents\HEQ Run\مهارات`, so you can shar
 - Voice recordings are measured locally and never uploaded.
 
 ### Requirements
-- Windows 10 or 11 (64-bit).
+- Windows 10 or 11 (64-bit), with about 1 GB of free space.
 - Internet for the chat. Rendering works offline.
 - An [HEQ Run](https://heq-run-6hf7.onrender.com) account.
 
