@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe"><b>⬇ تنزيل الإصدار v0.4.1 لويندوز · Download v0.4.1 for Windows</b></a>
+  <a href="https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe"><b>⬇ تنزيل الإصدار v0.4.2 لويندوز · Download v0.4.2 for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://heq-run-6hf7.onrender.com">الموقع · Website</a>
   &nbsp;·&nbsp;
@@ -33,7 +33,7 @@
 - **طرفية تفاعلية مدمجة:** يشغّل الأوامر والاختبارات محلياً داخل مجلد مشروعك مع إمكانية تشغيل الأوامر يدوياً أو بضغطة واحدة.
 - **متصفح مدمج داخل التطبيق:** يعرض صفحات الويب بملء الارتفاع ويتيح لهجين فحصها والتفاعل معها أمامك مع إمكانية تولّيك التحكم في أي لحظة.
 - **صناعة فيديوهات الموشن والمواقع:** ينشئ مواقع كاملة وفيديوهات عمودية (`9:16`) من ملفاتك وأصواتك وشخصياتك، ويفحص الإطارات قبل التصدير، ثم يصدّر الفيديو مباشرة على جهازك.
-- **التفاعل الصوتي والمرفقات:** تحدّث مباشرة عبر الميكروفون، واستمع لردود هجين صوتياً، وأرفق الصور أو ملفات المشروع بالسحب والإفلات.
+- **التفاعل الصوتي وإرفاق الصور والفيديو:** تحدّث مباشرة عبر الميكروفون، واستمع لردود هجين صوتياً، وأرفق الصور أو ملفات المشروع أو مقاطع الفيديو — حيث يقوم التطبيق بقصّ لقطات مفتاحية من الفيديو محلياً على جهازك ليقرأها هجين ويحلّلها.
 - **المهارات المخصّصة (`/`):** احفظ أسلوب عملك المفضل كمهارة جاهزة وأعد استخدامها في أي مشروع بكتابة `/` داخل حقل الإرسال.
 - **التكامل مع منظومة HEQ Link:** مزامنة تلقائية للباقة والرصيد، وإمكانية نشر أعمالك ومقاطعك مباشرة عبر حسابك المرتبط.
 
@@ -47,14 +47,15 @@
 
 <p align="center"><img src="docs/skills-page.png" width="720" alt="إدارة المهارات في إعدادات الحساب"></p>
 
-## جديد الإصدار v0.4.1
+## جديد الإصدار v0.4.2
 
+- **إرسال الفيديوهات وقص اللقطات محلياً على جهازك:** أرفق أو اسحب أي ملف فيديو إلى المحادثة، أو اطلب من هجين فحص فيديو داخل مشروعك، ليقوم التطبيق بقصّ لقطات مفتاحية محلياً على حاسوبك وقراءتها وتحليلها دون إثقال الخادم.
 - **واجهة زجاجية هادئة (أسود داكن / أبيض فاتح):** تصميم نظيف وبسيط بلا كروت زائدة في المحادثة، مع إمكانية التبديل بين المظهر الداكن والفاتح من إعدادات الحساب.
 - **شريط علوي مرتّب وقائمة موحّدة:** يضم الشعار واسم المشروع/المحادثة وقائمة واحدة تجمع الحساب والرصيد وإعدادات اللوحات.
 - **معاينة متناسقة ومرنة:** معاينة فيديو عمودية (`9:16`) بحجم رشيق متناسق، ومعاينة متصفح بملء الارتفاع بدون فراغات، مع إمكانية سحب وتغيير عرض الأعمدة لتناسب أي حجم شاشة.
 - **طرفية تفاعلية + تشغيل فوري:** شريط أوامر مباشر داخل تبويب الطرفية وزر «تشغيل في الطرفية» بجانب الأوامر المقترحة.
-- **دعم الصوت الكامل:** إدخال صوتي بالمايكروفون وتحويل ردود هجين إلى صوت بنقرة واحدة.
-- **تحسينات الاستقرار والأداء:** استجابة أسرع وأكثر موثوقية أثناء تنفيذ المهام الطويلة وفحص الفيديو.
+- **دعم الصوت الكامل والمحسّن:** إدخال صوتي بالمايكروفون وتحويل ردود هجين إلى صوت مسموع مباشرة داخل التطبيق.
+- **توجيه أسرع وأكثر استقراراً:** تخطّي فوري لأي مسار مزدحم لضمان استجابة سريعة ومستمرة في المحادثات الطويلة.
 
 ## مستويات الأداء داخل التطبيق
 
@@ -120,8 +121,9 @@ Describe your goal in plain language, by voice, or by attaching images and files
 - **Custom Skills (`/`):** Save reusable workflows and invoke them anytime with `/`.
 - **HEQ Link Integration:** Sync your plan and balance automatically, and publish finished work seamlessly.
 
-### What's New in v0.4.1
+### What's New in v0.4.2
 
+- **Video Attachments with Local Frame Cutting:** Attach or drag-and-drop video files into chat (or ask Hajeen to inspect any project video); frames are extracted 100% locally on your PC so Hajeen can inspect and analyze the video visually.
 - **Calm Monochrome Glass UI (Dark & Light):** Distraction-free flat canvas chat with Dark/Light theme switching inside Account Settings.
 - **Clean Minimal Top Bar:** Brand menu, subtle project/chat context, and a single unified account & workspace menu.
 - **Balanced & Resizable Workspace:** Compact `9:16` video preview, edge-to-edge full-height browser preview, and fluid resizable columns for any window size.
