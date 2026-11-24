@@ -5,150 +5,84 @@
 <h1 align="center">HEQ Run Desktop</h1>
 
 <p align="center">
-  <b>هجين بيعمل فيديوهاتك ومواقعك على جهازك</b><br>
-  Hajeen makes your videos and websites, on your own computer
+  <b>مساحة عمل ذكية تجمع الوكيل «هجين» للبرمجة والطرفية والمتصفح وصناعة المواقع والفيديو — مباشرة على جهازك</b><br>
+  Your all-in-one local workspace powered by Hajeen — for coding, terminal workflows, built-in browsing, websites, and vertical videos on your own computer.
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe"><b>⬇ تنزيل لويندوز · Download for Windows</b></a>
+  <a href="https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe"><b>⬇ تنزيل الإصدار v0.4.1 لويندوز · Download v0.4.1 for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://heq-run-6hf7.onrender.com">الموقع · Website</a>
   &nbsp;·&nbsp;
   <a href="#english">English</a>
 </p>
 
-<p align="center"><img src="docs/chat.png" alt="هجين عم يبني فيديو من ملفات المستخدم"></p>
+---
 
 <div dir="rtl">
 
-## شو هو HEQ Run Desktop؟
+## ما هو HEQ Run Desktop؟
 
-HEQ Run Desktop هو تطبيق لويندوز، وجواته **هجين**: مساعد بتحكيله فكرتك بلهجتك، وهو بيشتغل عليها خطوة بخطوة لحد ما يطلعلك فيديو عمودي جاهز للنشر، أو موقع كامل.
+**HEQ Run Desktop** هو تطبيق سطح مكتب لنظام ويندوز يضع بين يديك الوكيل الذكي **«هجين»** ليعمل مباشرة داخل مجلد مشروعك على جهازك.
 
-الفرق عن أدوات الفيديو العادية إنك ما بتسحب وتحط بإيدك. إنت بتحكي شو بدك، وهجين:
-- بيقرا ملفاتك.
-- بيكتب النص أو بيمشي على نصك حرفياً.
-- بيعمل خطة وبيعرضها عليك.
-- بيبني المشاهد، وبيشيّك على اللقطات.
-- بيرندر الفيديو **على جهازك**.
+بدلاً من التنقّل بين عدة أدوات منفصلة، يمكنك وصف ما تريده بلغتك الطبيعية أو بالصوت أو بإرفاق صور وملفات، وسيتولى **هجين** تنفيذ المهمة خطوة بخطوة أمامك بشفافية كاملة:
 
-وكل خطوة بتشوفها بالمحادثة وهي عم تصير.
+- **البرمجة وتعديل المشاريع:** يقرأ بنية مشروعك، يبحث داخل الملفات، يكتب الكود ويعدّله مع عرض الفروقات وحفظ نقاط استعادة تلقائية.
+- **طرفية تفاعلية مدمجة:** يشغّل الأوامر والاختبارات محلياً داخل مجلد مشروعك مع إمكانية تشغيل الأوامر يدوياً أو بضغطة واحدة.
+- **متصفح مدمج داخل التطبيق:** يعرض صفحات الويب بملء الارتفاع ويتيح لهجين فحصها والتفاعل معها أمامك مع إمكانية تولّيك التحكم في أي لحظة.
+- **صناعة فيديوهات الموشن والمواقع:** ينشئ مواقع كاملة وفيديوهات عمودية (`9:16`) من ملفاتك وأصواتك وشخصياتك، ويفحص الإطارات قبل التصدير، ثم يصدّر الفيديو مباشرة على جهازك.
+- **التفاعل الصوتي والمرفقات:** تحدّث مباشرة عبر الميكروفون، واستمع لردود هجين صوتياً، وأرفق الصور أو ملفات المشروع بالسحب والإفلات.
+- **المهارات المخصّصة (`/`):** احفظ أسلوب عملك المفضل كمهارة جاهزة وأعد استخدامها في أي مشروع بكتابة `/` داخل حقل الإرسال.
+- **التكامل مع منظومة HEQ Link:** مزامنة تلقائية للباقة والرصيد، وإمكانية نشر أعمالك ومقاطعك مباشرة عبر حسابك المرتبط.
 
-## شو بيفيد صنّاع المحتوى؟
+## جديد الإصدار v0.4.1
 
-- **فيديو من ملفاتك إنت:** أصواتك المسجلة، وشخصياتك، ولقطات شاشة تطبيقك، ولوغوك. هجين ما بيبدّلهم بشي من عنده.
-- **كلام وصورة متزامنين:** بيقيس كل تسجيل صوتي، وبيطلّع كل كلمة بلحظة ما تنقال، وبيقصّر السكتات الطويلة.
-- **كاميرا حية:** زوم، وميلان، ونطّات بين الشخصيات مربوطة بالكلام، مع مؤثرات صوتية قصيرة (ضربة، ووووش، تيك).
-- **ما في شي فوق شي:** قبل الرندر بيفحص الإطارات، وإذا في كلمة مقصوصة أو صورتين فوق بعض، بيصلّحها لحاله.
-- **الرندر على جهازك:** ملفاتك ما بتطلع من جهازك لترندر.
-- **مواقع كمان:** صفحة لمطعمك أو مشروعك، بتشوفها جوّا التطبيق قبل ما تنشرها.
-- **بيحكي لهجتك:** إذا كتبتله بالشامي بيرد بالشامي، وبالخليجي بيرد بالخليجي، وهكذا.
+- **واجهة زجاجية هادئة (أسود داكن / أبيض فاتح):** تصميم نظيف وبسيط بلا كروت زائدة في المحادثة، مع إمكانية التبديل بين المظهر الداكن والفاتح من إعدادات الحساب.
+- **شريط علوي مرتّب وقائمة موحّدة:** يضم الشعار واسم المشروع/المحادثة وقائمة واحدة تجمع الحساب والرصيد وإعدادات اللوحات.
+- **معاينة متناسقة ومرنة:** معاينة فيديو عمودية (`9:16`) بحجم رشيق متناسق، ومعاينة متصفح بملء الارتفاع بدون فراغات، مع إمكانية سحب وتغيير عرض الأعمدة لتناسب أي حجم شاشة.
+- **طرفية تفاعلية + تشغيل فوري:** شريط أوامر مباشر داخل تبويب الطرفية وزر «تشغيل في الطرفية» بجانب الأوامر المقترحة.
+- **دعم الصوت الكامل:** إدخال صوتي بالمايكروفون وتحويل ردود هجين إلى صوت بنقرة واحدة.
+- **تحسينات الاستقرار والأداء:** استجابة أسرع وأكثر موثوقية أثناء تنفيذ المهام الطويلة وفحص الفيديو.
 
-## كيف بتشتغل معه؟
+## مستويات الأداء داخل التطبيق
 
-### 1. نزّل وثبّت
-- نزّل [`HEQ-Run-Setup.exe`](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe) وشغّله.
-- ويندوز ممكن يطلعلك شاشة زرقا، لأن التطبيق لسا ما عليه توقيع رقمي. اكبس **More info** وبعدين **Run anyway**.
-- ادخل بنفس حسابك على [موقع HEQ Run](https://heq-run-6hf7.onrender.com). التطبيق بيفتحلك صفحة الدخول بالمتصفح وبيرجع لحاله.
+يمكنك اختيار المستوى الأنسب لمهمتك مباشرة من حقل الإرسال:
 
-<p align="center"><img src="docs/sign-in.png" width="640" alt="شاشة الدخول"></p>
-
-### 2. جهّز ملفاتك (أهم خطوة)
-كل ما كانت ملفاتك مرتبة، كل ما طلع الفيديو أقرب للي ببالك:
-
-| الملف | كيف بيكون أحسن |
+| المستوى | الوصف |
 |---|---|
-| الصوتيات | تسجيل واحد لكل جملة، مرقّمة بالترتيب: `01.mp3`، `02.mp3` … |
-| الشخصيات | صور PNG مقصوصة بدون خلفية، وبكل وضعية اسم: `sami-6.png`، `omar-5.png` |
-| لقطات التطبيق | صور شاشة أو فيديوهات قصيرة: `13-login.jpg`، `l02-demo.mp4` |
-| اللوغو | PNG بدون خلفية |
+| **HEQ Auto** | يختار تلقائياً التوازن الأنسب بين السرعة والعمق حسب صعوبة المهمة |
+| **HEQ Pro** | تفكير عميق للبرمجة المعقدة، التخطيط المعماري، وأوامر الطرفية |
+| **HEQ Hybrid** | قدرة هجينة متقدمة للمشاريع الثقيلة والمراجعة الدقيقة |
+| **HEQ Lite** | استجابة سريعة واقتصادية للأسئلة والتعديلات الخفيفة |
 
-حطهم كلهم بمجلد واحد، وقل لهجين وين هو، وهو بينسخهم لجوّا المشروع.
+كما يمكنك اختيار وضع التنفيذ المناسب لك:
+- **تخطيط فقط:** يعرض الخطة والمقترحات دون تعديل ملفاتك.
+- **موافقة ذكية:** يطلب موافقتك قبل تشغيل الأوامر الحساسة.
+- **تلقائي:** ينفّذ الخطوات بسلاسة ومتابعة مباشرة.
 
-### 3. اكتب وصف (سكربت) واضح
-هجين بيمشي على وصفك **حرفياً**. أحسن وصف بيكون جدول، كل سطر فيه:
-- مين بيحكي.
-- النص بالضبط.
-- ملف الصوت.
-- وضعية الشخصية.
-- الكلمات اللي بدك ياها كبيرة ومضيئة.
+## كيفية البدء خلال دقيقة
 
-مثال:
+1. نزّل مثبّت ويندوز [`HEQ-Run-Setup.exe`](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe) وشغّله.
+2. في حال ظهور تنبيه حماية ويندوز (لأن التطبيق قيد التوقيع الرقمي)، اختر **More info** ثم **Run anyway**.
+3. سجّل الدخول بحسابك على [موقع HEQ Run](https://heq-run-6hf7.onrender.com) — سيفتح المتصفح لتأكيد الدخول ثم يعود بك إلى التطبيق تلقائياً.
+4. اختر مجلد مشروعك من جهازك وابدأ العمل مع **هجين** فوراً.
 
-| رقم | مين | النص | شو بيصير |
-|---|---|---|---|
-| 01 | سامي | يا زلمة… نزل! | `sami-6`، و«نزل!» ضخمة ومضيئة |
-| 02 | عمر | شو اللي نزل؟ | الكاميرا لعند `omar-5`، والنص على شريط |
-| 03 | سامي | التطبيق اللي حكيتلك عنه… | لقطة `13-login.jpg` ونقرة على الزر |
+## الخصوصية والتشغيل المحلي
 
-وإذا ما عندك سكربت، احكيله الفكرة بس، وهو بيكتبلك نص وبيعرضه عليك قبل ما يكمّل.
+- جميع ملفات مشروعك، أوامر الطرفية، المتصفح المدمج، وتصدير الفيديو تعمل **محلياً 100% على جهازك**.
+- لا تُغادر ملفات التصدير جهازك ولا تُرفع لأي خادم خارجي.
+- يمكنك إيقاف أي مهمة أو سحب التحكم في المتصفح أو تعديل الإعدادات في أي لحظة.
 
-### 4. خطة قبل الفيديو
-قبل ما يبني أي شي، هجين بيعرض عليك خطة: المشاهد، ومين بيحكي، وشو بيبيّن بكل لحظة. إنت بتوافق أو بتعدّل، وبعدين بيكمّل.
+## متطلبات التشغيل
 
-فوق مربع الكتابة في مفتاح بيحدد طريقة الشغل:
-- **يسألني قبل كل خطوة:** بيوقف ويسألك عند كل قرار. منيح لأول مرة، أو لفيديو مهم.
-- **يقرر لحاله:** بياخد الوصف وبيكمّل للآخر بدون ما يوقف. منيح لما يكون وصفك كامل.
-
-### 5. الفحص والرندر
-- قبل الرندر، هجين بيشوف إطارات من الفيديو وبيصلّح أي شي فوق بعضه أو مقصوص.
-- بعدين بيرندر على جهازك، وبيطلع الفيديو بلوحة المعاينة، وبيضل محفوظ بمجلد `renders` جوّا مشروعك.
-- **شو لازم تشيّك إنت:** توقيت الكلمات مع الصوت، وعلو المؤثرات. هدول بيتسمعوا بالأذن، وهجين بيقلك إذا في سطر توقيته تقديري.
-
-## المهارات ( / ): ليش وكيف؟
-
-المهارة هي **طريقة شغل محفوظة**: تعليمات بتقول لهجين كيف يعمل نوع معين من الفيديوهات، فما بتضطر تعيد شرحها كل مرة.
-
-<p align="center"><img src="docs/skills-menu.png" width="720" alt="قائمة المهارات"></p>
-
-**كيف بتستعملها:** اكتب `/` بمربع الكتابة، واختار مهارة، وبعدين اكتب طلبك عادي.
-
-**المهارات اللي جاية مع التطبيق:**
-
-| المهارة | شو بتعمل |
-|---|---|
-| `/إعلان-بملفاتي` | فيديو من أصواتك وشخصياتك ولقطاتك، بالضبط متل وصفك |
-| `/إعلان` | إعلان لمنتج أو تطبيق: المشكلة، بعدين الحل، بعدين الدعوة |
-| `/كاميرا` | مشاهد قليلة طويلة، والكاميرا بتنطّ بين الشخصيات على إيقاع الكلام |
-| `/قطع-سريع` | لقطة لكل جملة وانتقال مختلف كل مرة، بطاقة عالية |
-| `/دليل-المحرك` | كل شي بيقدر المحرك يعمله، لما بدك تحكم بالتفاصيل |
-
-**ليش تعمل مهاراتك الخاصة؟** إذا عندك ستايل ثابت لقناتك، مثلاً «كل فيديو بيبلش بسؤال، والألوان كحلي وذهبي، وبيخلص باسم الصفحة»، احفظه كمهارة مرة وحدة، وكل فيديوهاتك بتطلع بنفس الهوية.
-
-**كيف تضيف مهارة:**
-- من **قائمة اللوغو ← الحساب والمهارات ← مهارة جديدة**: اكتب اسمها وشو بتعمل وتعليماتها.
-- أو من المحادثة: بعد فيديو عجبك، قل لهجين **«احفظ هالطريقة كمهارة»**.
-- وفيك تعدّل نسخة إلك من أي مهارة جاية مع التطبيق.
-- المهارات بتنحفظ كملفات نص بمجلد `Documents\HEQ Run\مهارات`، فبتقدر تشاركها مع فريقك.
-
-<p align="center"><img src="docs/skills-page.png" width="720" alt="صفحة المهارات"></p>
-
-## الموديلات والخطط
-- **HEQ Lite:** سريع، ومتاح لكل الخطط.
-- **HEQ Ultra:** أقوى بالتفكير والفيديوهات الطويلة، وللخطط المدفوعة بس.
-- رصيدك وذاكرة المحادثة بيبيّنوا فوق بالتطبيق، والخطط على [الموقع](https://heq-run-6hf7.onrender.com).
-- الخطة المجانية بيطلع فيديوها مع علامة HEQ Run المائية.
-
-## كل شي بمكانه
-
-<p align="center"><img src="docs/menu.png" width="720" alt="قائمة اللوغو"></p>
-
-- **قائمة اللوغو:** المحادثة، والمحادثات والمشاريع، والخطط والرصيد، والحساب والمهارات.
-- **المحادثات والمشاريع:** كل محادثة بتنحفظ جوّا مشروعها، وبترجعلها وبتكمّل من وين وقفت.
-- **لوحة المشروع ولوحة المعاينة:** بتسكّرهم لما بدك مساحة أكبر للمحادثة.
-
-## الخصوصية
-- ملفاتك بتضل على جهازك، والرندر بيصير على جهازك.
-- هجين بيبعت للسيرفر بس الشي اللي بيشتغل عليه: رسائلك، والنصوص اللي بيقراها من مشروعك، وصور صغيرة من الإطارات وقت الفحص.
-- التسجيلات الصوتية بتنقاس على جهازك وما بتنبعت.
-
-## المتطلبات
-- ويندوز 10 أو 11 (64 بت)، وحوالي 1 غيغا مساحة فاضية.
-- إنترنت للمحادثة مع هجين. الرندر ما بيحتاج إنترنت.
+- نظام تشغيل **Windows 10** أو **Windows 11** (64-bit).
+- مساحة تخزين فارغة تقارب **1 غيغابايت**.
+- اتصال بالإنترنت للتواصل مع هجين (تصدير الفيديو والعمل على الملفات محلياً على جهازك).
 - حساب على [HEQ Run](https://heq-run-6hf7.onrender.com).
 
-## مشكلة أو اقتراح؟
-افتح [Issue](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/issues) واحكيلنا شو صار. وإذا في رسالة خطأ بالمحادثة، انسخها معك.
+## الدعم والملاحظات
+
+إذا واجهتك أي مشكلة أو لديك اقتراح لتحسين التطبيق، يمكنك فتح [ملاحظة جديدة (Issue)](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/issues) وإرفاق وصف مختصر لما حدث.
 
 </div>
 
@@ -158,74 +92,48 @@ HEQ Run Desktop هو تطبيق لويندوز، وجواته **هجين**: مس
 
 ## English
 
-### What is it?
-HEQ Run Desktop is a Windows app with **Hajeen** inside: an assistant you talk to in your own words. It works through your idea step by step until you have a vertical video ready to post, or a complete website. You don't drag and drop anything. You say what you want, and Hajeen does the rest, showing each step in the chat as it happens:
-- reads your files;
-- writes a script, or follows yours word for word;
-- shows you a plan;
-- builds the scenes and checks the frames;
-- renders **on your computer**.
+### What is HEQ Run Desktop?
 
-### Why creators use it
-- **Built from your own files:** your voice recordings, your characters, your app screenshots and your logo. Hajeen never swaps them for its own.
-- **Words in sync with the voice:** it measures every recording, lands each word as it is spoken, and trims long pauses.
-- **A living camera:** zooms, tilts and hops between speakers, tied to the words, with short sound effects.
-- **Nothing on top of anything:** before rendering it looks at frames and fixes cut-off words or overlapping pictures.
-- **Local render:** your files never leave your computer to be rendered.
-- **Websites too:** a page for your shop or project, previewed inside the app.
-- **Speaks your dialect:** it answers in the way you write.
+**HEQ Run Desktop** is a Windows desktop workspace powered by **Hajeen**, an interactive assistant that works directly inside your project folder on your own computer.
 
-### How to work with it
-1. **Install:** download [`HEQ-Run-Setup.exe`](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe). The app is not code-signed yet, so Windows may show a blue screen: choose **More info**, then **Run anyway**. Sign in with your [HEQ Run](https://heq-run-6hf7.onrender.com) account.
-2. **Prepare your files:**
-   - one recording per line, numbered (`01.mp3`, `02.mp3`);
-   - cut-out PNG characters named by pose (`sami-6.png`);
-   - screenshots or short clips;
-   - a transparent logo.
+Describe your goal in plain language, by voice, or by attaching images and files, and Hajeen works through it step by step in front of you:
 
-   Put them in one folder and tell Hajeen where it is.
-3. **Write a clear brief:** a table where each line says who speaks, the exact words, the recording, the pose, and the words to make big and glowing. No script? Describe the idea and Hajeen writes one for you to approve.
-4. **Plan first:** Hajeen shows a plan before building. The switch above the input sets how it works:
-   - **Ask before each step:** it stops at every decision.
-   - **Decide on its own:** it runs the whole brief without stopping.
-5. **Check and render:** it checks frames, renders locally, and saves the video in your project's `renders` folder. Timing and effect volume are for your ears to judge, and Hajeen tells you which lines have estimated timing.
+- **Coding & Project Editing:** Reads your project structure, searches files, writes and edits code with clear diffs and automatic checkpoints.
+- **Interactive Local Terminal:** Runs project commands and checks locally on your computer, plus lets you run commands manually or with a single click.
+- **Built-In Browser:** Full-height web preview integrated right beside your chat so Hajeen can inspect pages while you keep full control at any time.
+- **Websites & Vertical Motion Videos (`9:16`):** Builds websites and vertical videos from your own assets, audio, and visuals, checks frames before export, and renders locally on your PC.
+- **Voice & Attachments:** Speak via microphone, listen to audio replies, and drag-and-drop images or files directly into the composer.
+- **Custom Skills (`/`):** Save reusable workflows and invoke them anytime with `/`.
+- **HEQ Link Integration:** Sync your plan and balance automatically, and publish finished work seamlessly.
 
-### Skills ( / )
-A skill is a **saved way of working**: instructions that tell Hajeen how to make a certain kind of video, so you don't explain it every time. Type `/` in the input and pick one.
+### What's New in v0.4.1
 
-Built in:
+- **Calm Monochrome Glass UI (Dark & Light):** Distraction-free flat canvas chat with Dark/Light theme switching inside Account Settings.
+- **Clean Minimal Top Bar:** Brand menu, subtle project/chat context, and a single unified account & workspace menu.
+- **Balanced & Resizable Workspace:** Compact `9:16` video preview, edge-to-edge full-height browser preview, and fluid resizable columns for any window size.
+- **Built-In Interactive Terminal & One-Click Run:** Execute commands directly in the Terminal tab or click **Run in Terminal** on suggested commands.
+- **Voice Input & Audio Replies:** Built-in speech-to-text microphone input and text-to-speech playback on replies.
+- **Improved Reliability:** Faster, smoother execution for long tasks and video frame checks.
 
-| Skill | What it does |
+### Performance Tiers
+
+| Tier | Description |
 |---|---|
-| `/إعلان-بملفاتي` (video from my files) | Builds exactly your brief from your own recordings, characters and screenshots |
-| `/إعلان` (ad) | A product or app ad: problem, then solution, then call to action |
-| `/كاميرا` (camera) | A few long shots, with the camera hopping between speakers |
-| `/قطع-سريع` (fast cut) | A new shot for every line, with high energy |
-| `/دليل-المحرك` (engine guide) | Everything the engine can do, for full control |
+| **HEQ Auto** | Automatically balances speed and depth for each task |
+| **HEQ Pro** | Deep reasoning for complex coding, planning, and terminal tasks |
+| **HEQ Hybrid** | Enhanced capacity for heavy projects and thorough reviews |
+| **HEQ Lite** | Fast and lightweight responses for quick edits and questions |
 
-Make your own so every video on your channel keeps one identity:
-- From **Logo menu → Account & skills → New skill**.
-- Or after a video you like, tell Hajeen **"save this as a skill"**.
+### Getting Started
 
-Skills are plain text files in `Documents\HEQ Run\مهارات`, so you can share them with your team.
+1. Download [`HEQ-Run-Setup.exe`](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe) and run the installer.
+2. If Windows SmartScreen appears (while code-signing is pending), click **More info** → **Run anyway**.
+3. Sign in with your [HEQ Run](https://heq-run-6hf7.onrender.com) account and pick a project folder on your PC to start working with Hajeen.
 
-### Models and plans
-- **HEQ Lite:** fast, on every plan.
-- **HEQ Ultra:** stronger reasoning for long videos, on paid plans.
-- Free-plan videos carry the HEQ Run watermark.
+### Privacy & Requirements
 
-### Privacy
-- Your files stay on your computer, and rendering happens there.
-- Hajeen sends only what it works on: your messages, the text it reads from your project, and small frames while checking.
-- Voice recordings are measured locally and never uploaded.
-
-### Requirements
-- Windows 10 or 11 (64-bit), with about 1 GB of free space.
-- Internet for the chat. Rendering works offline.
-- An [HEQ Run](https://heq-run-6hf7.onrender.com) account.
-
-### Feedback
-Open an [issue](https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/issues) and paste any error message from the chat.
+- All file operations, terminal execution, browsing, and video rendering run **100% locally on your computer**.
+- **Requirements:** Windows 10 or 11 (64-bit), ~1 GB free disk space, internet connection for Hajeen, and an [HEQ Run](https://heq-run-6hf7.onrender.com) account.
 
 ---
 
