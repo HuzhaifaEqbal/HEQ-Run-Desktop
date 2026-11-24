@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe"><b>⬇ تنزيل الإصدار v0.4.2 لويندوز · Download v0.4.2 for Windows</b></a>
+  <a href="https://github.com/HuzhaifaEqbal/HEQ-Run-Desktop/releases/latest/download/HEQ-Run-Setup.exe"><b>⬇ تنزيل الإصدار v0.4.3 لويندوز · Download v0.4.3 for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://heq-run-6hf7.onrender.com">الموقع · Website</a>
   &nbsp;·&nbsp;
@@ -47,15 +47,14 @@
 
 <p align="center"><img src="docs/skills-page.png" width="720" alt="إدارة المهارات في إعدادات الحساب"></p>
 
-## جديد الإصدار v0.4.2
+## جديد الإصدار v0.4.3
 
+- **شعار هجين العائم والنابض بالصوت:** عند استماعك لردود هجين صوتياً يظهر شعاره العائم نابضاً مع ذبذبات الصوت الحية، ويمكنك سحبه وتحريكه بحرية لأي مكان على الشاشة.
+- **نطق صوتي متدفّق فائق السرعة + تفريغ صوتي محلي:** بدء نطق الجملة الأولى فوراً أثناء تحضير باقي الجمل في الخلفية، مع دعم التشغيل المحلي لنموذج التفريغ الصوتي وتخصيص مسار مستقل للصوت.
+- **أيقونات سفلية نظيفة وحالة تنفيذ دقيقة للطرفية:** أزرار أيقونات أنيقة للاستماع والنسخ في نهاية كل رد، مع عرض واضح لنجاح أو فشل كل أمر طرفية ودعم المعاملات المركّبة على ويندوز.
 - **إرسال الفيديوهات وقص اللقطات محلياً على جهازك:** أرفق أو اسحب أي ملف فيديو إلى المحادثة، أو اطلب من هجين فحص فيديو داخل مشروعك، ليقوم التطبيق بقصّ لقطات مفتاحية محلياً على حاسوبك وقراءتها وتحليلها دون إثقال الخادم.
 - **واجهة زجاجية هادئة (أسود داكن / أبيض فاتح):** تصميم نظيف وبسيط بلا كروت زائدة في المحادثة، مع إمكانية التبديل بين المظهر الداكن والفاتح من إعدادات الحساب.
-- **شريط علوي مرتّب وقائمة موحّدة:** يضم الشعار واسم المشروع/المحادثة وقائمة واحدة تجمع الحساب والرصيد وإعدادات اللوحات.
 - **معاينة متناسقة ومرنة:** معاينة فيديو عمودية (`9:16`) بحجم رشيق متناسق، ومعاينة متصفح بملء الارتفاع بدون فراغات، مع إمكانية سحب وتغيير عرض الأعمدة لتناسب أي حجم شاشة.
-- **طرفية تفاعلية + تشغيل فوري:** شريط أوامر مباشر داخل تبويب الطرفية وزر «تشغيل في الطرفية» بجانب الأوامر المقترحة.
-- **دعم الصوت الكامل والمحسّن:** إدخال صوتي بالمايكروفون وتحويل ردود هجين إلى صوت مسموع مباشرة داخل التطبيق.
-- **توجيه أسرع وأكثر استقراراً:** تخطّي فوري لأي مسار مزدحم لضمان استجابة سريعة ومستمرة في المحادثات الطويلة.
 
 ## مستويات الأداء داخل التطبيق
 
@@ -121,8 +120,11 @@ Describe your goal in plain language, by voice, or by attaching images and files
 - **Custom Skills (`/`):** Save reusable workflows and invoke them anytime with `/`.
 - **HEQ Link Integration:** Sync your plan and balance automatically, and publish finished work seamlessly.
 
-### What's New in v0.4.2
+### What's New in v0.4.3
 
+- **Floating Draggable Pulsing Voice Orb:** While Hajeen speaks, a floating glowing orb pulses in real time to the audio waveform and can be dragged anywhere on screen.
+- **Fast Sentence-Streaming TTS & Local STT:** Immediate first-sentence playback with background prefetching and local speech-to-text support.
+- **Clean Bottom Icon Actions & Accurate Terminal Status:** Minimal bottom icon buttons for Listen & Copy, accurate pass/fail badges on terminal commands, and automatic Windows PowerShell command chaining.
 - **Video Attachments with Local Frame Cutting:** Attach or drag-and-drop video files into chat (or ask Hajeen to inspect any project video); frames are extracted 100% locally on your PC so Hajeen can inspect and analyze the video visually.
 - **Calm Monochrome Glass UI (Dark & Light):** Distraction-free flat canvas chat with Dark/Light theme switching inside Account Settings.
 - **Clean Minimal Top Bar:** Brand menu, subtle project/chat context, and a single unified account & workspace menu.
